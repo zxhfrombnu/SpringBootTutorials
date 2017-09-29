@@ -1,2 +1,2 @@
 # SpringBootTutorials
-It contains the samples from http://www.mkyong.com/tutorials/spring-boot-tutorials/
+It contains the practice on samples from https://spring.io/guides
